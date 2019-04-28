@@ -30,7 +30,6 @@ cacheSolve <- function(x, ...) {
   x$setinverse(inv)
   inv
 }
-
 #Desired output
 
 #x = rbind(c(1, -1/4), c(-1/4, 1))
